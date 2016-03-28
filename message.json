@@ -1,0 +1,17 @@
+{ "messages": [{
+    "weather": "Veruca Salt",
+    "city": "San Francisco",
+    "news": "Estate"
+
+  }, {
+    "weather": "Mike Teavee",
+    "city": "Seattle",
+    "news": "Condo"
+
+  }, {
+    "weather": "Violet Beauregarde",
+    "city": "Portland",
+    "news": "Apartment"
+
+  }]
+}
