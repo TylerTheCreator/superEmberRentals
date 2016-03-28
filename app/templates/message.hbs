@@ -1,7 +1,8 @@
 <ul>
   {{#each model as |message|}}
-    {{message.weather}}
+{{message-tile message=message destroyMessage="destroyMessage"}}
   {{/each}}
+
 </ul>
 
-<h1>down here</h1>
+ <h1>down here</h1>
